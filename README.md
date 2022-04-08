@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://xenodochial-mccarthy-0cc6e8.netlify.app/](https://xenodochial-mccarthy-0cc6e8.netlify.app/)
 
-- 💬 Ask me about **javascript,react**
+- 💬 Ask me about **javascript,react, C#, ASP .Net Core**
 
 - 📫 How to reach me **kaziminhajulhaider@gmail.com**
 
