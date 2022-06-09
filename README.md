@@ -1,7 +1,7 @@
 Hi 👋 My name is Kazi Minhaj 
 ============================
 
-Software Engineer
+Software Engineer <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaziminhaj&label=Profile%20views&color=0e75b6&style=flat" alt="kaziminhaj" /> </p>
 -----------------
 
 hi, I'm Kazi Minhaj, a passionate self-taught full-stack web developer and a software engineer from BD. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
@@ -34,7 +34,7 @@ hi, I'm Kazi Minhaj, a passionate self-taught full-stack web developer and a sof
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/KaziMinhaj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kaziminhajulhaider" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p><p align="left"> <img src="https://komarev.com/ghpvc/?username=kaziminhaj&label=Profile%20views&color=0e75b6&style=flat" alt="kaziminhaj" /> </p>
+<p align="left"> <a href="https://www.github.com/KaziMinhaj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kaziminhajulhaider" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
